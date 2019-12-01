@@ -13,8 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ava": "^0.25.0",
-    "lodash": "^4.17.11",
-    "moment": "^2.22.2"
+    "ava": "^2.4.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0"
   }
 }
